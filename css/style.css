@@ -21,13 +21,23 @@
         display: none;
     }
 
-    .content {
+    .content img {
         display: none;
     }
     .box img {
       display: none;
     }
-    
+    .img_nav {
+      display: none;
+      width: 0px;
+      height: 0px;
+    }
+   .menutestimonios {
+      display: none;
+   }
+   .menutestimonios img {
+      display: none;
+   }
 }
 
 @media screen and (max-width: 700px) { 
